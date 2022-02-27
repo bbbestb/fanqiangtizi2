@@ -1,6 +1,16 @@
 # 【科学上网】VPN翻墙软件和机场梯子推荐(2022年)
 
-![翻墙](https://qiangup.com/wp-content/uploads/2022/02/over-the-great-firewall.jpg)
+|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxian227&data2=fanqiangtizi) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian227/fanqiangtizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxian227&data2=fanqiangtizi) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=fanqiangtizi) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian227&aff_sub2=fanqiangtizi) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=fanqiangtizi) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=fanqiangtizi) | [备用地址2](https://www.linkev.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=fanqiangtizi) |
+| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=fanqiangtizi) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=fanqiangtizi) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=fanqiangtizi) |
+| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=fanqiangtizi) | - | - |
+
+
+![翻墙](http://img1.mydrivers.com/img/20170907/dffed70db7c041719614e3125128bd01.jpg)
 
 科学上网已经成为了日常工作和生活的一部分，而科学上网工具有很多，不管是VPN翻墙软件还是机场/梯子，都是为了绕过防火长城，帮助中国用户翻墙。接下来我们将介绍什么是科学上网，以及哪些翻墙VPN软件在中国最好用。
 
