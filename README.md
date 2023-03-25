@@ -21,8 +21,7 @@
 |  ----  | ----  | ---- | ---- | ---- |
 | Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxian227&data2=fanqiangtizi) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian227/fanqiangtizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxian227&data2=fanqiangtizi) |
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=fanqiangtizi) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian227&aff_sub2=fanqiangtizi) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=fanqiangtizi) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=fanqiangtizi) | [备用地址2](https://www.linkev.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=fanqiangtizi) |
-| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=fanqiangtizi) | [Express备用地址1](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=fanqiangtizi) | [备用地址2](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=fanqiangtizi) |
 | Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=fanqiangtizi) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=fanqiangtizi) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=fanqiangtizi) |
 | Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=fanqiangtizi) | - | - |
 
@@ -37,11 +36,10 @@
 
 如果你不想读完整篇文章，并且正在寻找一款好用的翻墙软件，可以选择以下经过我测试的VPN(本文后半部分有关于每款翻墙软件的详细测评)：
 
-*   1.[ExpressVPN](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=fanqiangtizi) —— 最稳定的中国翻墙VPN软件，提供香港、台湾、日本等近距离节点，速度更快、连接更稳定。
+*   1.[ExpressVPN](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=fanqiangtizi) —— 最稳定的中国翻墙VPN软件，提供香港、台湾、日本等近距离节点，速度更快、连接更稳定。
 *   2.[PureVPN](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=fanqiangtizi) —— 性价比高，全中文支持，提供多种设备支持，24/7在线客服。
 *   3.[Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxian227&data2=fanqiangtizi) —— 美国IP节点多，服务器速度快，不限制设备连接数量。
-*   4.[Panda VPN](https://www.pankvyh.xyz/r/22216799) —— 华人团队开发，专为中国翻墙定制，多种协议支持。
-*   5.[NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=fanqiangtizi) —— 国外知名VPN软件，信用良好，伪装模式可以在中国使用。
+*   4.[NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=fanqiangtizi) —— 国外知名VPN软件，信用良好，伪装模式可以在中国使用。
 
 ## 翻墙与科学上网的由来
 
@@ -85,7 +83,7 @@ VPN一开始是为企业提供安全数据加密的，后面被中国网友用�
 
 以下翻墙软件经过我的测试，在中国的稳定性、速度都不错，有些是翻墙VPN软件，有些是安全的机场/梯子，可以根据自己需求选择合适的科学上网工具。我在[中国VPN推荐](/best-vpn-china/)指南中，介绍了关于使用每款科学上网软件的详细教程。
 
-### 1.[ExpressVPN](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=fanqiangtizi) —— 速度最快的翻墙软件
+### 1.[ExpressVPN](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=fanqiangtizi) —— 速度最快的翻墙软件
 
 说到翻墙与科学上网，最耳熟能详的名字就是ExpressVPN，这也证明了它在中国的翻墙能力，凭借十多年的VPN软件经验技术，使得ExpressVPN应对防火长城更加得心应手。
 
@@ -109,7 +107,7 @@ VPN一开始是为企业提供安全数据加密的，后面被中国网友用�
 
 期间如果不满意，可以申请全额退款，可以说是一个免费试用VPN的机会。ExpressVPN价格确实不便宜，但是利用本站提供的ExpressVPN优惠链接，可以为你节省一些费用。
 
-[获取ExpressVPN优惠](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=fanqiangtizi)
+[获取ExpressVPN优惠](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=fanqiangtizi)
 
 * * *
 
@@ -165,33 +163,7 @@ Surfshark算得上是一款[便宜的VPN](/cheap-vpn/)翻墙软件，包年套�
 
 * * *
 
-### 4.[Panda VPN](https://www.pankvyh.xyz/r/22216799) —— 为翻墙而生的VPN
-
-Panda VPN(也被称作熊猫VPN)比较特殊，可以说是翻墙VPN和机场的结合，并且技术团队都在国外，不管是安全性，还是翻墙软件本身的连接速度、稳定性都非常不错。
-
-![pandavpn官网](https://qiangup.com/wp-content/uploads/2021/12/pandavpn-homepage.jpg)
-
-设备支持方面算不上多，为Mac、Windows、Linux、iOS、Android以安卓电视提供VPN软件。Panda VPN内置的代理协议类似于SSR、V2ray，在电脑端会自动代理浏览器实现科学上网，如果要全局翻墙可以切换为OpenVPN协议或者模式。
-
-一个账号允许3台不同设备同时连接。为了解决大陆地区Apple Store无法访问的问题，Panda VPN提供了iOS测试包，可以配合TestFlight苹果官方测试平台使用，另外也可以通过修改Apple 账号地区解决，Panda VPN官网下载页面提供了相应[iOS翻墙](/iphone-vpn/)教程。
-
-Panda VPN在全球80个国家/地区拥有超过3000台服务器，VPN软件提供的香港、日本、美国节点很多，也是中国用户科学上网经常用到的IP节点。根据不同的使用场景，Panda VPN将线路分为了解锁Netflix、Hulu、HBO、AbemaTV、Disney+的流媒体节点。  
-  
-用于解决特殊时期防火长城封杀IP严重而准备的备用节点。游戏节点可以提供低延迟的体验，大多集中在日本地区。P2P种子下载速度也不错。
-
-![pandavpn价格](https://qiangup.com/wp-content/uploads/2022/01/pandavpn-price.jpg)
-
-如果选择12个月套餐，Panda VPN价格还算便宜，每月不到$3。当然如果你想试用以下，也可以选择1个月、3个月、6个月的短时长套餐，所有套餐都提供7天退款保证，虽然相比其他全球知名VPN来说提供的退款时间不算长，但你完全可以在这期间充分试用。
-
-[获取Panda VPN优惠](https://www.pankvyh.xyz/r/22216799)
-
-虽然Panda VPN属于翻墙机场，但是却具备翻墙VPN的安全性。通过ECC安全加密技术，可以保护用户的访问数据。无日志记录策略，确保了用户的隐私安全。
-
-而且由于服务器和团队都不在中国大陆境内，因此不用担心法律法规问题。在注册账号的时候，甚至可以不用邮箱，而使用服务器生成数字账户，还可以通过比特币支付，进一步提升隐私性。
-
-* * *
-
-### 5.[NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=fanqiangtizi) —— 安全性高的翻墙软件
+### 4.[NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=fanqiangtizi) —— 安全性高的翻墙软件
 
 NordVPN提供了最新的混淆模式，专门用于在中国翻墙使用，很多关于NordVPN的测评其实已经过时，在完成技术升级之后NordVPN大幅提升了翻墙软件的稳定性和速度。
 
